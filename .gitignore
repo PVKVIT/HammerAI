@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+data/cad_session.json
+data/cad_settings.json
+.venv/
+dist/
+build/
