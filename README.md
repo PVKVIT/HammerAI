@@ -125,7 +125,3 @@ Edit `config/components.json` and add a new key/value pair:
 The component will appear in the **Library** tab immediately.
 
 ---
-
-## License
-
-MIT © 2025 HammerAI
